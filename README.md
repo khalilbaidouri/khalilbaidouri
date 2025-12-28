@@ -1,7 +1,7 @@
 # Hi, I'm Khalil 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Baidouri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalil-baidouri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=flat&logo=google-chrome)](https://portfolio-jciv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=flat&logo=google-chrome)](https://www.baidouri.site/)
 [![Instagram](https://img.shields.io/badge/Instagram-Khalil%20Baidouri-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/khalilbaidouri/)
 [![Facebook](https://img.shields.io/badge/Facebook-Khalil%20Baidouri-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091862744544)
 
@@ -35,7 +35,7 @@ I'm a **Computer Engineering student** passionate about **Full-Stack Development
 
 ## Connect with Me
 - LinkedIn: [Khalil Baidouri](https://www.linkedin.com/in/khalil-baidouri)  
-- Portfolio: [View Portfolio](https://portfolio-jciv.vercel.app/)  
+- Portfolio: [View Portfolio](https://www.baidouri.site/)  
 - GitHub: [github.com/khalilbaidouri](https://github.com/khalilbaidouri)
 - Instagram: [khalil baidouri](https://www.instagram.com/khalilbaidouri/)
 - Facebook: [khalil baidouri](https://www.facebook.com/profile.php?id=100091862744544)
