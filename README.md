@@ -1,4 +1,8 @@
 # Hi, I'm Khalil 👋
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=khalil_baidouri&color=blue)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Baidouri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalil-baidouri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=flat&logo=google-chrome)](https://www.baidouri.site/)
