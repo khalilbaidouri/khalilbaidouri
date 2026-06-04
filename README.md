@@ -69,10 +69,8 @@ I enjoy turning ideas into real-world applications and constantly learning new f
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalilbaidouri&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbaidouri&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilbaidouri&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbaidouri&layout=compact&theme=default&hide_border=true)
 
 ---
 
