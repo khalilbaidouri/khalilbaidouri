@@ -1,75 +1,17 @@
-<h1 align="center">Hi 👋, I'm Khalil Baidouri</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | Java & Spring Enthusiast</h3>
+# Hi, I'm Khalil 👋
 
-<p align="center">
-Passionate about building scalable web applications, learning new technologies, and solving real-world problems through software engineering.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khalil-baidouri">
-    <img src="https://img.shields.io/badge/LinkedIn-Khalil%20Baidouri-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.baidouri.site">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="https://www.instagram.com/khalilbaidouri/">
-    <img src="https://img.shields.io/badge/Instagram-Khalil%20Baidouri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=khalilbaidouri&color=blue)](https://github.com/khalilbaidouri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Baidouri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil-baidouri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-baidouri.site-F97316?style=flat&logo=google-chrome&logoColor=white)](https://www.baidouri.site/)
+[![Instagram](https://img.shields.io/badge/Instagram-khalilbaidouri-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/khalilbaidouri/)
+[![Facebook](https://img.shields.io/badge/Facebook-Khalil%20Baidouri-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091862744544)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Passionate about Full-Stack Development
-- 🌱 Currently learning Artificial Intelligence, System Design, and Microservices
-- 🚀 Interested in building scalable web applications
-- 🎨 Graphic Designer with experience in digital and print media
-- 📍 Morocco
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilbaidouri&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbaidouri&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilbaidouri&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Gestion des Interventions
-A full-stack platform for managing intervention requests, scheduling events, and role-based access control.
-
-**Tech Stack:** Spring Boot, Spring Security, React, MySQL, Docker
-
----
-
-### 🔹 TurathNa
-A digital platform dedicated to preserving and promoting Moroccan cultural heritage.
-
-**Tech Stack:** Next.js, Spring Boot, PostgreSQL, Tailwind CSS
-
----
-
-### 🔹 Social Media Platform
-A social networking application developed in collaboration with Mouad Sadik, allowing users to create profiles, publish content, exchange messages, and interact securely.
-
-**Tech Stack:** Next.js, Java, Spring Security, JWT, MySQL, Tailwind CSS
-
----
-
-### 🔹 Biologists In Action Website
-Official website presenting the activities, projects, and values of the Biologists In Action Club.
-
-**Tech Stack:** React, Tailwind CSS
+I'm a **Computer Engineering student** passionate about **Full-Stack Development** and emerging technologies.
+I enjoy turning ideas into real-world applications and constantly learning new frameworks and tools.
 
 ---
 
@@ -77,121 +19,59 @@ Official website presenting the activities, projects, and values of the Biologis
 
 ### 🎨 Frontend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-</p>
-
-### 🔐 Security & ORM
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50"/>
-  <img src="https://jwt.io/img/pic_logo.svg" height="50"/>
-</p>
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-</p>
-
-### 🤖 Artificial Intelligence
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-</p>
-
-- Machine Learning Fundamentals
-- Neural Networks
-- OpenAI API
-- FastAPI
-- AI Agents
-- LLM Applications
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Databases
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### 🛠️ Dev Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khalilbaidouri&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbaidouri&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🤝 Connect with Me
 
-- Advanced Spring Boot
-- Microservices Architecture
-- Artificial Intelligence & LLMs
-- Docker & DevOps
-- System Design
-- Cloud Computing
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalilbaidouri&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-## 💼 Experience
-
-### 🎨 Freelance Graphic Designer
-
-**2021 - Present**
-
-- Designed branding and marketing materials
-- Created digital and print media assets
-- Collaborated with clients to deliver tailored visual solutions
-- Managed multiple projects and deadlines
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/khalil-baidouri
-- 🌐 Portfolio: https://www.baidouri.site
-- 💻 GitHub: https://github.com/khalilbaidouri
-- 📷 Instagram: https://www.instagram.com/khalilbaidouri
-- 📘 Facebook: https://www.facebook.com/profile.php?id=100091862744544
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalilbaidouri&color=blue&style=for-the-badge" />
-</p>
-
-<p align="center">
-⭐ Feel free to explore my repositories and connect with me!
-</p>
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/khalil-baidouri](https://www.linkedin.com/in/khalil-baidouri) |
+| 🌐 Portfolio | [baidouri.site](https://www.baidouri.site) |
+| 🐙 GitHub | [github.com/khalilbaidouri](https://github.com/khalilbaidouri) |
+| 📸 Instagram | [@khalilbaidouri](https://www.instagram.com/khalilbaidouri/) |
+| 📘 Facebook | [Khalil Baidouri](https://www.facebook.com/profile.php?id=100091862744544) |
