@@ -128,18 +128,15 @@ I'm a **Computer Engineering Student** passionate about building modern **web an
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalilbaidouri&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=khalilbaidouri&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbaidouri&layout=compact&theme=tokyonight" />
-</p>
+## 📈 Contribution Graph
 
+[![Khalil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khalilbaidouri&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 🤝 Connect With Me
